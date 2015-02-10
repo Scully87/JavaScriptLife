@@ -11,3 +11,4 @@ var sum = 4 + 5,
 var foo = 4 + 5 * (6 - 8);
     bar = foo + 1 // adding variable value and adding to it, assigning that value to a new variable
 
+var turd = "Hello" + "World!" // concatination operator
