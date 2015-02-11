@@ -12,3 +12,5 @@ var foo = 4 + 5 * (6 - 8);
     bar = foo + 1 // adding variable value and adding to it, assigning that value to a new variable
 
 var turd = "Hello" + "World!" // concatination operator
+
+var balls = "6" + (4 * 3) //612 concatinates next string and adds product to string
